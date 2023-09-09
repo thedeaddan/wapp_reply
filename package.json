@@ -1,0 +1,23 @@
+{
+  "name": "wapp_reply",
+  "version": "1.0.0",
+  "description": "WhatsApp Web Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "javascript"
+  ],
+  "author": "thedeaddan",
+  "dependencies": {
+    "whatsapp-web.js": "^2.0.0",
+    "qrcode-terminal": "^1.0.0",
+    "winston": "^3.3.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
